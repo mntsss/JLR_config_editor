@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\bin\Debug\JLR_Config_Editor.exe.config
+c:\users\user\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\bin\Debug\JLR_Config_Editor.exe
+c:\users\user\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\bin\Debug\JLR_Config_Editor.pdb
+c:\users\user\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.exe
+c:\users\user\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.pdb
+c:\users\user\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.Main.resources
+C:\Users\User\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.Block_control.resources
+C:\Users\User\documents\visual studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.DataTree.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.Group_control.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.Loading.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.ParameterMod.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\JLR_Config_Editor\JLR_Config_Editor\obj\Debug\JLR_Config_Editor.Parameters.resources
